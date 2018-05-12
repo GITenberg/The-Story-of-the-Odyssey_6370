@@ -1,4 +1,8 @@
 _repo: The-Story-of-the-Odyssey_6370
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Homer
@@ -15,6 +19,8 @@ creator:
     gutenberg_agent_id: '2020'
     url: http://www.gutenberg.org/2009/agents/2020
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6370#The-Story-of-the-Odyssey
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
